@@ -2,16 +2,8 @@
 
   <!-- Title -->
   <h2>👋 Hi, I'm <strong>Fatimetou Med Abdeljelili</strong></h2>
-
-  <!-- Illustration -->
-  <img 
-    src="https://illustrations.popsy.co/white/programming.svg" 
-    alt="coding illustration" 
-    width="350"
-  />
-
+  
   <br><br>
-
   <!-- Subtitle -->
   <h4>💻 Busy coding & Vibing to ☕🎧</h4>
 
@@ -19,9 +11,9 @@
 
   <!-- About -->
   <p>
-    🎓 Étudiante en génie industriel <br>
+    🎓 Étudiante en Fintech <br>
     📱 Passionnée par le développement mobile et web <br>
-    🧠 Intéressée par les applications bancaires et l’innovation digitale
+   
   </p>
 
   <br>
@@ -58,4 +50,6 @@
   </p>
 
 </div>
+
+
 
