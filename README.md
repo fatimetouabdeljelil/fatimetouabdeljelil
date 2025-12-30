@@ -1,30 +1,61 @@
-## 👋 Hi, I'm Fatimetou Med Abdeljelili
+<div align="center">
 
-🎓 Étudiante en génie industriel & passionnée par le développement mobile et web  
-📱 Développeuse Flutter | 💻 Web (HTML, CSS, Angular)  
-🧠 Intéressée par les systèmes d'information, les applications bancaires et l'innovation digitale
+  <!-- Title -->
+  <h2>👋 Hi, I'm <strong>Fatimetou Med Abdeljelili</strong></h2>
 
----
+  <!-- Illustration -->
+  <img 
+    src="https://illustrations.popsy.co/white/programming.svg" 
+    alt="coding illustration" 
+    width="350"
+  />
 
-### 🚀 About Me
-- 🔭 Je travaille actuellement sur des applications mobiles avec **Flutter**
-- 🌱 J’apprends le **développement mobile avancé**, les **bases de données** et le **backend**
-- 👯 Je suis ouverte à collaborer sur des projets **Flutter / Web**
-- 💬 N’hésitez pas à me poser des questions sur **Flutter, Python, UML, Git**
-- ⚡ Fun fact : J’aime transformer des idées simples en applications utiles
+  <br><br>
 
----
+  <!-- Subtitle -->
+  <h4>💻 Busy coding & Vibing to ☕🎧</h4>
 
-### 🛠️ Skills
-- **Langages** : Dart, Python, Java, C++
-- **Mobile** : Flutter
-- **Web** : HTML, CSS, Angular
-- **Base de données** : MySQL
-- **Outils** : Git, GitHub, VS Code
+  <br>
 
----
+  <!-- About -->
+  <p>
+    🎓 Étudiante en génie industriel <br>
+    📱 Passionnée par le développement mobile et web <br>
+    🧠 Intéressée par les applications bancaires et l’innovation digitale
+  </p>
 
-### 📫 Contact
-- GitHub : [@fatimetouabdeljelil](https://github.com/fatimetouabdeljelil)
+  <br>
 
-✨ Merci de visiter mon profil !
+  <!-- Skills -->
+  <h3>🛠️ Skills</h3>
+
+  <p>
+    <strong>Mobile & Web</strong><br>
+    HTML • CSS • Angular • Flutter
+  </p>
+
+  <p>
+    <strong>Programming Languages</strong><br>
+    Java • C++ • Python • Dart
+  </p>
+
+  <p>
+    <strong>Database</strong><br>
+    MySQL
+  </p>
+
+  <br>
+
+  <!-- Tools icons -->
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,angular,python,java,cpp,mysql,git" />
+
+  <br><br>
+
+  <!-- Contact -->
+  <h3>📫 Contact</h3>
+  <p>
+    GitHub : <strong>fatimetouabdeljelil</strong>
+  </p>
+
+</div>
+
